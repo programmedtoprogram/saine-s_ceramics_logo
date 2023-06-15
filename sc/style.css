@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(109, 139, 143);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    
+
+
+}
+#name{
+    font-family: 'Great Vibes';font-size: 90px;
+   text-decoration: underline;
+   text-decoration-thickness: 1px;
+   text-decoration-color: black;
+    color: rgb(34, 57, 34);
+    position: relative;
+    bottom: 10px;
+    
+
+}
+#name1{
+    position: relative;
+    bottom: 95px;
+    color:rgb(147, 68, 68);
+    font-size: 24px;
+    
+
+}
+
+.square{
+    height: 600px;
+    width: 750px;
+    background-image: url('background.png');
+    border-radius: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 20px 20px 5px rgb(77, 103, 111);
+}
+.oval{
+    height: 230px;
+    width: 380px;
+    background-color:rgb(244, 247, 250);
+    border-radius: 50%/50%;
+    border: 2px solid rgb(29, 93, 29);
+    
+    
+}
+.cont1{
+    text-align: center;  
+    
+  
+}

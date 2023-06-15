@@ -1,0 +1,29 @@
+.oval {
+    text-align: center;
+    width: 340px;
+    height: 180px;
+    background-color: whitesmoke;
+    border-radius: 50%/50%;
+    border: 2px solid rgb(57, 91, 57)
+    
+  }
+  
+  #saines {
+    margin-top: 30px;
+    margin-bottom: 0px; /* Adjust the value as needed */
+    font-family: 'Great Vibes';font-size: 90px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: black;
+    color: rgb(40, 64, 40)
+
+  }
+  
+  #ceramics {
+    margin-top: -30px; /* Adjust the value as needed */
+    color:rgb(131, 72, 72)
+  }
+
+  
+    
+      }
